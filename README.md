@@ -236,7 +236,7 @@ Upon completing these assignments, you will have:
 
 ---
 
-### 📝 Course Information
+### ℹ️ Course Information
 
 | Aspect | Details |
 |:---|:---|
@@ -264,16 +264,6 @@ Upon completing these assignments, you will have:
 
 ---
 
-### 📜 Attribution
-
-This repository contains course assignments from **Sharif University of Technology**, Dept. of Computer Engineering.  
-All implementations are original work based on course material and research papers.
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)  
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
