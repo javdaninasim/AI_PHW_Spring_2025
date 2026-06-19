@@ -261,10 +261,6 @@ Upon completing these assignments, you will have:
 | **ML Classification** | Algorithm choice matters less than feature engineering | Production ML systems, data quality first |
 | **Bayesian Networks** | Conditional independence enables tractable inference in complex domains | Medical diagnosis, sensor fusion, robotics |
 | **RL** | Temporal difference learning balances bootstrapping and full returns | Autonomous control, game AI, optimization |
-
----
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
 </div>
