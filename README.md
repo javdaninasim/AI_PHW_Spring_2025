@@ -276,8 +276,5 @@ All implementations are original work based on course material and research pape
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer" width="100%"/>
 </div>
-```
-
-Copy everything from the triple backticks above. This is formatted and ready to paste directly into your README.md file!
