@@ -171,43 +171,6 @@ Advanced decision-making algorithms:
 
 ---
 
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/javdaninasim/AI_PHW_Spring_2025.git
-cd AI_PHW_Spring_2025
-
-# 2. Set up Python environment (Python 3.8+)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install all dependencies
-pip install numpy scipy scikit-learn torch tensorflow matplotlib jupyter pandas
-
-# 4. Launch Jupyter Notebook
-jupyter notebook
-
-# 5. Navigate to any assignment folder and open the .ipynb file
-```
-
----
-
-### 📖 How to Use This Repository
-
-Each folder contains a **self-contained Jupyter Notebook** with:
-
-- 🎯 **Problem Definition** – Clear statement of what we're solving
-- 📝 **Theory & Background** – Mathematical foundations and intuition
-- 🔧 **Implementation from Scratch** – Python code with detailed explanations
-- 📊 **Experiments & Results** – Visualization, performance metrics, analysis
-- 💭 **Insights & Discussion** – Key takeaways and practical lessons
-- 📚 **References** – Academic papers, textbooks, and further reading
-
-**Workflow:** Open a notebook → Read problem statement → Implement your solution → Run experiments → Analyze results
-
----
-
 ### 📈 Assignment Completion Status
 
 | # | Algorithm | Topic | Size | Status |
